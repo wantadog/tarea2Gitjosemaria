@@ -10,5 +10,7 @@ package tarea2gitjosemarialopezmartin;
  * @author chemorrow
  */
 public class Jugador {
-    
+    private String nombre;
+    private int votos;
+    private int id;
 }
